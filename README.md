@@ -141,28 +141,40 @@ Interactive Games • Animations • Utility Applications
 
 
 
+<h2 align="center"> JavaScript Execution & Interaction Flowchart</h2>
 
+<p align="center">
+  <img src="https://github.com/gavneet0030/HTML-CSS-JS-PROJECT/blob/main/js%20chart/js%20chart.png"
+       alt="JavaScript Execution Flowchart"
+       width="80%" />
+</p>
 
+<p align="center">
+  The above flowchart represents how <b>JavaScript</b> works in conjunction
+  with HTML and CSS to create interactive and dynamic web applications.
+</p>
 
+<p align="center">
+  This execution flow is followed by all projects in this repository,
+  including games, animations, and utility-based applications.
+</p>
 
+<p align="center">
+  • JavaScript file is loaded after the HTML and CSS are rendered<br/>
+  • DOM elements are accessed using JavaScript selectors<br/>
+  • Event listeners are attached to buttons, keys, or user actions<br/>
+  • User interactions trigger JavaScript functions<br/>
+  • Game logic, calculations, or animations are executed<br/>
+  • DOM is updated dynamically based on the logic<br/>
+  • Updated UI is reflected instantly on the screen
+</p>
 
+<p align="center">
+  This flowchart helps in understanding how JavaScript controls behavior,
+  user interaction, and real-time updates in browser-based projects.
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr/>
 
 
 
